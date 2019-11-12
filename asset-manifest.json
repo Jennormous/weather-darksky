@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-darksky/static/css/main.e11f669a.chunk.css",
+    "main.js": "/weather-darksky/static/js/main.ff066340.chunk.js",
+    "main.js.map": "/weather-darksky/static/js/main.ff066340.chunk.js.map",
+    "runtime-main.js": "/weather-darksky/static/js/runtime-main.95db5e20.js",
+    "runtime-main.js.map": "/weather-darksky/static/js/runtime-main.95db5e20.js.map",
+    "static/js/2.fc5bbf3b.chunk.js": "/weather-darksky/static/js/2.fc5bbf3b.chunk.js",
+    "static/js/2.fc5bbf3b.chunk.js.map": "/weather-darksky/static/js/2.fc5bbf3b.chunk.js.map",
+    "index.html": "/weather-darksky/index.html",
+    "precache-manifest.b17ca10e3776e32973fb733903a7261e.js": "/weather-darksky/precache-manifest.b17ca10e3776e32973fb733903a7261e.js",
+    "service-worker.js": "/weather-darksky/service-worker.js",
+    "static/css/main.e11f669a.chunk.css.map": "/weather-darksky/static/css/main.e11f669a.chunk.css.map",
+    "static/media/styles.css": "/weather-darksky/static/media/weather.a759677a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95db5e20.js",
+    "static/js/2.fc5bbf3b.chunk.js",
+    "static/css/main.e11f669a.chunk.css",
+    "static/js/main.ff066340.chunk.js"
+  ]
+}
